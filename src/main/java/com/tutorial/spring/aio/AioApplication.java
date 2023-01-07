@@ -15,8 +15,6 @@ public class AioApplication implements ApplicationRunner {
 
 	public static void main(String[] args) {
 		 SpringApplication.run(AioApplication.class, args);
-
-
 	}
 
 	@Override
